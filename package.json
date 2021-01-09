@@ -1,0 +1,20 @@
+{
+  "name": "Chatbot-Setup",
+  "version": "1.0.0",
+  "description": "const Discord = require('discord.js'); const bot = new Discord.Client();",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bw": "0.0.0",
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "index": "^0.4.0",
+    "ms": "^2.1.2"
+  }
+}
