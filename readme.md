@@ -10,7 +10,7 @@ Azeari is a bot designed with the intention of assisting your team members in ma
 * Live Server and Hosting
 ___
 #### **Commands:**
-Users can use the `@Azeari` command to initilize a response from the bot,  `az$cmd` to list all commands or `az$help` for futher assistance. Full [documentation](#./commands/command.md) about this bot's commands has been provided for additional support.  
+Users can use the `@Azeari` command to initilize a response from the bot,  `az$cmd` to list all commands or `az$help` for futher assistance. Full [documentation](/commands/command.md) about this bot's commands has been provided for additional support.  
 ___
 #### **Express Server and Live Hosting:**
 This bot is built with a Node-Express backend server for the purpose of persistent hosting. This simple server is pinged by [UptimeRobot](https://uptimerobot.com) at a preset interval thus allowing the bot to remain active even during your host site's activity timeout settings. 
