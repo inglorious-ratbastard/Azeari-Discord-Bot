@@ -37,5 +37,5 @@ ___
 If you would like to report a Bug or Issue in this project feel free to do so under the Issues tab or contact me directly about any major concerns. 
 ___
 #### **Resources:**
-[Repl.it](https://repl.it/)
+[Repl.it](https://repl.it/)<br>
 [UptimeRobot](https://uptimerobot.com/)
