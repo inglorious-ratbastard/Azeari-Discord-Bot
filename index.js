@@ -1,5 +1,5 @@
-var Discord = require("discord.js");
-var bot = new Discord.Client();
+const Discord = require("discord.js");
+const bot = new Discord.Client();
 require('dotenv').config();
 const ms = require('ms');
 
@@ -31,7 +31,7 @@ bot.on("message", msg => {
   }
   
   if (msg.mentions.members.first() !== undefined){
-    if(msg.mentions.members.first().id == '691444591857238086'){
+    if(msg.mentions.members.first().id == process.env.ID){
         msg.channel.send('*If you need assistance with my commands use **az$cmd** to list them or **az$help**. \nFor general info about my services use the **az$info** command.*')
     }
   }
